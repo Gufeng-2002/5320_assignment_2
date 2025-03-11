@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1741669742.22253 "/Users/gufeng/2025_winter/STAT_5320/assignments/5320_assignment_2/doc/main.tex" "main.pdf" "main" 1741669744.7426 0
+["pdflatex"] 1741671541.5914 "/Users/gufeng/2025_winter/STAT_5320/assignments/5320_assignment_2/doc/main.tex" "main.pdf" "main" 1741671544.41131 0
   "../results/anscombe_quartet.png" 1741562538.10815 92224 caa0c90e1af4e741c4165f02ed87cb6a ""
   "../results/anscombe_quartet_fitted.png" 1741562605.66886 157253 5d3810ad6b301b0b98d36c1bb9c31a0e ""
   "../results/residuals_histogram.png" 1741563067.18227 79694 edf9d5821ba8a22ae8baf57d48ff15da ""
   "../results/residuals_qq.png" 1741563061.75198 167693 9d2c8f44914c7e6298845ab71d7e904d ""
   "../results/residuals_vs_fitted.png" 1741561487.72888 117735 d8ddda73c74c29ada10c15949f6a5bc1 ""
-  "/Users/gufeng/2025_winter/STAT_5320/assignments/5320_assignment_2/doc/main.tex" 1741669741.98091 7622 4fa1a68824a24f8fc3ee84e3219a6de5 ""
+  "/Users/gufeng/2025_winter/STAT_5320/assignments/5320_assignment_2/doc/main.tex" 1741671541.26529 7625 af8eec1d8c67acbe22274f8a1627c7f3 ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -104,9 +104,9 @@
   "/Users/gufeng/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1733086051.36593 14040 c88d0c4f5b9b66fd9f9fa37e41ca836c ""
   "/Users/gufeng/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1738446154 1928539 3ea1732a7e3f60ad79c7a5d0834cf1ff ""
   "/Users/gufeng/Library/TinyTeX/texmf.cnf" 1738446073.99775 708 85fd07691b6294ba94c59dbc62380410 ""
-  "main.aux" 1741669744.68788 3235 9fd9939e3866f74574b2f82781d37e34 "pdflatex"
-  "main.out" 1741669744.68879 2540 7a46de7fa0796a48c86adccae29dbeb3 "pdflatex"
-  "main.tex" 1741669741.98091 7622 4fa1a68824a24f8fc3ee84e3219a6de5 ""
+  "main.aux" 1741671544.32343 3235 9fd9939e3866f74574b2f82781d37e34 "pdflatex"
+  "main.out" 1741671544.32442 2540 7a46de7fa0796a48c86adccae29dbeb3 "pdflatex"
+  "main.tex" 1741671541.26529 7625 af8eec1d8c67acbe22274f8a1627c7f3 ""
   "reference.tex" 1741669625.26815 336 c998c0847bbf50b4dde21e039f890540 ""
   "settings/mycommands.tex" 1741070473.84562 191 acab76b4031e7b4db58f4c067b9a8d05 ""
   "settings/packages.tex" 1733106878.94181 999 c96a3d7a59c4930ddfc9fe47b6a254fd ""
